@@ -24,7 +24,7 @@ Available on a Nuget Feed: https://www.myget.org/F/hellokitty/api/v2 [![hellokit
 Testing of external Unity3D libraries is generally not possible. Refer to: https://github.com/HelloKitty/Testity as an incomplete solution to this important problem.
 
 #### Linux/Mono - Unit Tests
-||Debug x86|Debug x64|Release x86|Release x64|
+||Debug x86|Debug x64|Release x86|Release x64| 
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |**master**| N/A | N/A | N/A | [![Build Status](https://travis-ci.org/BoomaNation/Booma.Client.Common.svg?branch=master)](https://travis-ci.org/BoomaNation/Booma.Client.Common) |
 |**dev**| N/A | N/A | N/A | [![Build Status](https://travis-ci.org/BoomaNation/Booma.Client.Common.svg?branch=dev)](https://travis-ci.org/BoomaNation/Booma.Client.Common)|
